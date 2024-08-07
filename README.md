@@ -1,4 +1,6 @@
-![Programação-Arquitetura Java](https://github.com/jacqueline-oliveira/3698-java-clean-architecture/assets/66698429/0191ea20-432f-4583-a391-f01558004fb9)
+
+![Programaçã![CleanArchitecture](https://github.com/user-attachments/assets/5ae337f9-0102-4bf9-a6d2-2cfeb03aa3b7)
+o-Arquitetura Java](https://github.com/jacqueline-oliveira/3698-java-clean-architecture/assets/66698429/0191ea20-432f-4583-a391-f01558004fb9)
 ![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
 # CodeChella
